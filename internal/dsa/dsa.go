@@ -14,6 +14,7 @@ var DSAFiles = map[string][]string{
 	"BinarySearchList": {"BinarySearchList/BinarySearchList.go", "BinarySearchList/BinarySearchList_test.go"},
 	"DoublyLinkedList": {"DoublyLinkedList/DoublyLinkedList.go", "DoublyLinkedList/DoublyLinkedList_test.go"},
 	"LinearSearchList": {"LinearSearchList/LinearSearchList.go", "LinearSearchList/LinearSearchList_test.go"},
+	"MazeSolver":       {"MazeSolver/MazeSolver.go", "MazeSolver/MazeSolver_test.go"},
 	"MergeSort":        {"MergeSort/MergeSort.go", "MergeSort/MergeSort_test.go"},
 	"MinHeap":          {"MinHeap/MinHeap.go", "MinHeap/MinHeap_test.go"},
 	"QuickSort":        {"QuickSort/QuickSort.go", "QuickSort/QuickSort_test.go"},

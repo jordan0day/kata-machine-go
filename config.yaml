@@ -4,6 +4,7 @@ DSA: [
     BubbleSort,
     DoublyLinkedList,
     LinearSearchList,
+    MazeSolver,
     MergeSort,
     MinHeap,
     QuickSort,
