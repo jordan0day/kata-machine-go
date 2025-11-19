@@ -1,7 +1,13 @@
 DSA: [
     ArrayList,
     BinarySearchList,
+    BTBFS,
+    BTInOrder,
+    BTPostOrder,
+    BTPreOrder,
     BubbleSort,
+    CompareBinaryTrees,
+    DFSOnBST,
     DoublyLinkedList,
     LinearSearchList,
     MazeSolver,
