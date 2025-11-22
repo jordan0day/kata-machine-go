@@ -18,5 +18,6 @@ DSA: [
     RingBuffer,
     Stack,
     SinglyLinkedList,
+    Trie,
     TwoCrystalBalls
 ]
