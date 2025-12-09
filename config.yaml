@@ -1,5 +1,6 @@
 DSA: [
     ArrayList,
+    BFSGraphMatrix,
     BinarySearchList,
     BTBFS,
     BTInOrder,
@@ -8,6 +9,8 @@ DSA: [
     BubbleSort,
     CompareBinaryTrees,
     DFSOnBST,
+    DFSGraphList,
+    DijkstraList,
     DoublyLinkedList,
     LinearSearchList,
     MazeSolver,

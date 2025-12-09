@@ -10,6 +10,7 @@ var DSAPath = filepath.FromSlash("src/DSA")
 
 var DSAFiles = map[string][]string{
 	"ArrayList":          {"ArrayList/ArrayList.go", "ArrayList/ArrayList_test.go"},
+	"BFSGraphMatrix":     {"BFSGraphMatrix/BFSGraphMatrix.go", "BFSGraphMatrix/BFSGraphMatrix_test.go"},
 	"BinarySearchList":   {"BinarySearchList/BinarySearchList.go", "BinarySearchList/BinarySearchList_test.go"},
 	"BTBFS":              {"BTBFS/BTBFS.go", "BTBFS/BTBFS_test.go"},
 	"BTInOrder":          {"BTInOrder/BTInOrder.go", "BTInOrder/BTInOrder_test.go"},
@@ -17,7 +18,9 @@ var DSAFiles = map[string][]string{
 	"BTPreOrder":         {"BTPreOrder/BTPreOrder.go", "BTPreOrder/BTPreOrder_test.go"},
 	"BubbleSort":         {"BubbleSort/BubbleSort.go", "BubbleSort/BubbleSort_test.go"},
 	"CompareBinaryTrees": {"CompareBinaryTrees/CompareBinaryTrees.go", "CompareBinaryTrees/CompareBinaryTrees_test.go"},
+	"DFSGraphList":       {"DFSGraphList/DFSGraphList.go", "DFSGraphList/DFSGraphList_test.go"},
 	"DFSOnBST":           {"DFSOnBST/DFSOnBST.go", "DFSOnBST/DFSOnBST_test.go"},
+	"DijkstraList":       {"DijkstraList/DijkstraList.go", "DijkstraList/DijkstraList_test.go"},
 	"DoublyLinkedList":   {"DoublyLinkedList/DoublyLinkedList.go", "DoublyLinkedList/DoublyLinkedList_test.go"},
 	"LinearSearchList":   {"LinearSearchList/LinearSearchList.go", "LinearSearchList/LinearSearchList_test.go"},
 	"MazeSolver":         {"MazeSolver/MazeSolver.go", "MazeSolver/MazeSolver_test.go"},
