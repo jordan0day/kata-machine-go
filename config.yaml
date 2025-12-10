@@ -13,14 +13,16 @@ DSA: [
     DijkstraList,
     DoublyLinkedList,
     LinearSearchList,
+    LRU,
     MazeSolver,
     MergeSort,
     MinHeap,
     QuickSort,
     Queue,
     RingBuffer,
-    Stack,
+    SelectionSort,
     SinglyLinkedList,
+    Stack,
     Trie,
     TwoCrystalBalls
 ]
