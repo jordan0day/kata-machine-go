@@ -12,6 +12,7 @@ DSA: [
     DFSGraphList,
     DijkstraList,
     DoublyLinkedList,
+    InsertionSort,
     LinearSearchList,
     LRU,
     MazeSolver,
